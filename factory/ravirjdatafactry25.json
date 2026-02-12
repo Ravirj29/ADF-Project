@@ -1,0 +1,9 @@
+{
+	"name": "ravirjdatafactry25",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b8a5dbf-5503-403c-b54d-dae7e19a2d9b",
+		"tenantId": "e7bda99d-a807-41be-bdc1-539ea9cd631b"
+	}
+}

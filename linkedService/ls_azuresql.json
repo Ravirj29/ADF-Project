@@ -1,0 +1,17 @@
+{
+	"name": "ls_azuresql",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "adfserverravi.database.windows.net",
+			"database": "adfraviproject",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "rawdata",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFBNjExNTgwLUZBQjUtNDg4NC1CRTExLUI0M0JFNDgyNzdEQV8xNTEyMWIwOS1iNWMwLTRkMzItOTViNS00YTI4MWMyYzRhNWMiDQp9"
+		}
+	}
+}
